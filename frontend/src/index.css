@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+  background-image: url(https://tse3.mm.bing.net/th?id=OIP.aJYhwoTOJBmuXd9k_z7gNQHaFJ&pid=Api&P=0&h=180);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
